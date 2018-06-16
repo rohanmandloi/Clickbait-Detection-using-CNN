@@ -1,0 +1,13 @@
+UNKNOWN = "UNK"
+max_iter = 4
+batch_size = 64	
+hidden_size = 100
+filter_sizes = [4,5]
+embedding_size = 50
+dropout = 1.0
+num_filters = 128
+display_step = 100
+validation_step = 100
+dev_sample = 0.20
+lam = 1e-8
+vocabulary_size = 100000
